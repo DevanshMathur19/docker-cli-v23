@@ -85,4 +85,4 @@ docker/cli is licensed under the Apache License, Version 2.0. See
 license text.
 
 
-Runner SCM test codebase etc etc
+Runner SCM test codebase etc etc.
